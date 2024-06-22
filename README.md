@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/responsive-results-summary-component-css-flexbox-tUhpPMLCCJ)
+- Live Site URL: [Here](https://amrgobran.github.io/results-summary-component/)
 
 ### Built with
 
